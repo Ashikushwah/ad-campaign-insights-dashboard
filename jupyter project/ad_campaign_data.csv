@@ -1,0 +1,101 @@
+Campaign_ID,Campaign_Name,Date,Channel,Impressions,Clicks,Conversions,Cost
+CID001,YouTube Ads - Fashion,2024-02-05,YouTube,20260,1317,17,1683.03
+CID002,Search Ads - Shoes,2024-01-10,Display Network,5859,557,23,741.06
+CID003,YouTube Ads - Fashion,2024-01-25,YouTube,32495,1562,37,913.64
+CID004,Display Ads - Bags,2024-02-08,Display Network,23501,599,22,124.1
+CID005,YouTube Ads - Fashion,2024-02-04,Google Search,35766,1451,36,801.02
+CID006,YouTube Ads - Fashion,2024-01-25,YouTube,8419,835,31,1355.61
+CID007,Display Ads - Accessories,2024-02-19,Display Network,16425,723,18,1209.27
+CID008,Display Ads - Bags,2024-01-09,Display Network,42933,3534,38,495.73
+CID009,Display Ads - Accessories,2024-02-29,YouTube,37301,3661,24,815.47
+CID010,Display Ads - Bags,2024-01-21,Google Search,8444,166,18,1432.99
+CID011,Search Ads - Watches,2024-01-26,YouTube,7827,285,17,1874.15
+CID012,Display Ads - Accessories,2024-01-31,Google Search,47463,3814,30,331.24
+CID013,Display Ads - Bags,2024-01-11,Display Network,38967,3578,5,1847.47
+CID014,Display Ads - Accessories,2024-01-15,Google Search,26862,340,47,1509.1
+CID015,Search Ads - Watches,2024-01-04,Display Network,40911,1989,27,1995.99
+CID016,Display Ads - Accessories,2024-01-04,Google Search,16673,1206,20,925.08
+CID017,Search Ads - Shoes,2024-01-31,YouTube,10301,593,36,1477.34
+CID018,Search Ads - Shoes,2024-01-09,YouTube,15522,965,15,140.27
+CID019,YouTube Ads - Fashion,2024-02-16,YouTube,7464,268,36,1713.57
+CID020,YouTube Ads - Fashion,2024-02-11,Display Network,21157,2103,29,1624.8
+CID021,YouTube Ads - Fashion,2024-02-26,Display Network,2235,191,18,1909.99
+CID022,YouTube Ads - Fashion,2024-02-04,Google Search,10023,851,9,1348.88
+CID023,Display Ads - Bags,2024-02-09,Google Search,37386,1278,21,1428.33
+CID024,Search Ads - Watches,2024-01-15,YouTube,30078,2780,36,1740.42
+CID025,Search Ads - Watches,2024-01-23,Display Network,14675,1327,24,1926.86
+CID026,YouTube Ads - Fashion,2024-02-04,Display Network,13754,526,42,1502.98
+CID027,YouTube Ads - Fashion,2024-01-14,Display Network,15378,945,22,1705.41
+CID028,Search Ads - Watches,2024-01-06,Google Search,46147,2562,6,530.9
+CID029,YouTube Ads - Fashion,2024-01-02,Display Network,24651,601,9,1162.09
+CID030,Search Ads - Watches,2024-02-03,Google Search,32623,1626,32,1338.01
+CID031,YouTube Ads - Fashion,2024-01-06,Display Network,24157,536,33,1792.64
+CID032,YouTube Ads - Fashion,2024-01-17,YouTube,42512,1632,31,637.54
+CID033,Search Ads - Shoes,2024-02-26,Display Network,20392,1646,39,1915.1
+CID034,YouTube Ads - Fashion,2024-02-02,YouTube,35639,943,49,1253.24
+CID035,YouTube Ads - Fashion,2024-01-04,YouTube,26810,288,33,1715.87
+CID036,Display Ads - Accessories,2024-02-03,Google Search,17914,169,35,1450.3
+CID037,YouTube Ads - Fashion,2024-01-01,Google Search,32954,2933,12,545.89
+CID038,Display Ads - Accessories,2024-02-06,Google Search,32194,313,43,1856.43
+CID039,Search Ads - Watches,2024-01-20,Google Search,6892,178,35,1719.03
+CID040,Display Ads - Accessories,2024-01-27,Display Network,6458,88,45,909.02
+CID041,Display Ads - Accessories,2024-02-01,YouTube,43127,2402,12,1822.25
+CID042,Search Ads - Shoes,2024-01-09,Display Network,39469,1522,43,1196.7
+CID043,Display Ads - Bags,2024-02-12,YouTube,38470,2999,36,1073.47
+CID044,Display Ads - Accessories,2024-01-26,YouTube,25982,1224,18,607.94
+CID045,Display Ads - Accessories,2024-01-20,Display Network,16166,705,27,276.5
+CID046,Search Ads - Shoes,2024-02-22,YouTube,11240,777,8,1561.33
+CID047,Display Ads - Bags,2024-01-29,Google Search,29389,1416,20,1774.51
+CID048,Display Ads - Bags,2024-01-02,Google Search,12302,982,5,1688.9
+CID049,Search Ads - Watches,2024-01-16,YouTube,8356,252,30,1744.35
+CID050,Search Ads - Watches,2024-02-12,YouTube,18810,830,15,596.5
+CID051,YouTube Ads - Fashion,2024-02-19,Display Network,17189,1031,46,856.94
+CID052,YouTube Ads - Fashion,2024-01-22,Google Search,36748,2517,33,488.72
+CID053,Display Ads - Bags,2024-02-18,Display Network,35608,3491,34,1214.9
+CID054,Display Ads - Accessories,2024-01-20,Google Search,22958,1113,28,1964.32
+CID055,Search Ads - Watches,2024-02-02,Google Search,28117,1355,5,654.62
+CID056,Search Ads - Shoes,2024-02-18,Display Network,44979,3243,33,1722.47
+CID057,YouTube Ads - Fashion,2024-01-18,Google Search,1156,60,45,1567.1
+CID058,Search Ads - Watches,2024-01-22,Google Search,40674,3451,5,1403.73
+CID059,Display Ads - Bags,2024-01-10,Google Search,25656,731,16,389.59
+CID060,Search Ads - Shoes,2024-02-25,YouTube,29885,821,18,1146.66
+CID061,YouTube Ads - Fashion,2024-02-11,Google Search,10718,771,50,1601.98
+CID062,YouTube Ads - Fashion,2024-02-02,Google Search,2153,118,24,1072.27
+CID063,YouTube Ads - Fashion,2024-01-30,Display Network,39636,3296,36,685.23
+CID064,YouTube Ads - Fashion,2024-01-18,Display Network,15199,992,42,363.56
+CID065,Display Ads - Accessories,2024-01-10,YouTube,43150,3294,14,1663.17
+CID066,Display Ads - Bags,2024-02-20,YouTube,21113,2002,38,1816.19
+CID067,Display Ads - Accessories,2024-01-28,Display Network,22123,805,43,1722.38
+CID068,Display Ads - Bags,2024-01-09,Display Network,14065,878,34,481.43
+CID069,Search Ads - Shoes,2024-02-21,Google Search,16589,301,36,1836.07
+CID070,Display Ads - Accessories,2024-01-23,Display Network,17804,1200,41,822.84
+CID071,Display Ads - Bags,2024-01-14,Display Network,48606,3455,28,1813.68
+CID072,Display Ads - Bags,2024-02-29,YouTube,17809,138,49,1141.44
+CID073,Search Ads - Watches,2024-02-09,YouTube,7146,545,12,1368.89
+CID074,Display Ads - Accessories,2024-02-27,YouTube,7791,648,47,107.24
+CID075,YouTube Ads - Fashion,2024-02-27,Google Search,19754,1708,32,656.56
+CID076,Search Ads - Shoes,2024-01-30,Display Network,17096,1684,41,1813.83
+CID077,YouTube Ads - Fashion,2024-02-14,Google Search,17738,758,29,828.82
+CID078,Search Ads - Watches,2024-01-12,YouTube,38687,863,24,312.67
+CID079,YouTube Ads - Fashion,2024-01-06,YouTube,3687,74,35,1330.55
+CID080,YouTube Ads - Fashion,2024-01-30,YouTube,13418,740,43,1401.88
+CID081,YouTube Ads - Fashion,2024-02-20,Display Network,25911,1138,6,1450.33
+CID082,Display Ads - Bags,2024-02-11,Display Network,14716,781,23,1896.9
+CID083,Display Ads - Accessories,2024-01-25,Display Network,16031,509,7,1844.31
+CID084,YouTube Ads - Fashion,2024-01-20,Display Network,6021,302,47,190.57
+CID085,Search Ads - Shoes,2024-02-27,YouTube,42700,206,11,204.66
+CID086,Display Ads - Bags,2024-02-20,Google Search,13723,905,26,1757.07
+CID087,Display Ads - Bags,2024-01-13,YouTube,40881,3096,28,380.41
+CID088,Display Ads - Accessories,2024-01-08,Display Network,1719,116,18,1691.62
+CID089,Display Ads - Bags,2024-02-12,YouTube,40752,440,38,1754.98
+CID090,Display Ads - Accessories,2024-01-24,Google Search,6732,424,23,1374.39
+CID091,Search Ads - Shoes,2024-01-10,Google Search,38222,3347,12,1855.19
+CID092,YouTube Ads - Fashion,2024-02-28,Google Search,42808,1228,6,1356.24
+CID093,Search Ads - Watches,2024-02-10,YouTube,25265,2490,13,1288.36
+CID094,Display Ads - Accessories,2024-02-12,Google Search,35880,209,16,1616.02
+CID095,Search Ads - Shoes,2024-02-17,YouTube,9690,566,9,1776.92
+CID096,Display Ads - Accessories,2024-02-14,Google Search,47639,2781,17,1295.3
+CID097,Search Ads - Watches,2024-02-25,Display Network,8901,561,47,1230.92
+CID098,Search Ads - Shoes,2024-02-04,YouTube,26563,1929,47,338.51
+CID099,Search Ads - Shoes,2024-02-20,Google Search,10621,59,5,1796.65
+CID100,Display Ads - Bags,2024-01-01,Display Network,47093,982,48,1426.03
