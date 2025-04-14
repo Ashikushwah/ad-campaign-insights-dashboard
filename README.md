@@ -42,13 +42,19 @@ This project analyzes simulated digital ad campaign data using Python and Jupyte
 |----------------------------------------|----------------------------------------|
 | `Ad_Campaign_Insights_Dashboard_with_Charts.ipynb` | Jupyter notebook with full analysis & charts |
 | `ad_campaign_data.csv`                 | Sample dataset for ad campaigns        |
-| `images/` (optional)                   | Screenshots for GitHub or presentations |
+| `images/`                              | Screenshots for GitHub or presentations |
 
 ---
 
 ## 📈 Sample Visualizations
 
-> Bar charts included in the notebook:
+### 📊 CTR by Campaign
+![CTR by Campaign](images/ctr_by_campaign.png)
+
+### 🎯 Conversions by Campaign
+![Conversions by Campaign](images/conversions_by_campaign.png)
+
+>  Bar charts included in the notebook:
 - CTR by Campaign
 - Total Conversions by Campaign
 
